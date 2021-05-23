@@ -1,0 +1,9 @@
+export const black = '#000000';
+export const white = '#ffffff';
+export const header = '#C5BF6F';
+export const petTitles = '#696868';
+export const contactButton = '#556b2f'
+export const SignBg = '#b8ae9F';
+export const bgcolor1 = '#C5BF6F';
+export const yellow = '#ffff00';
+export const red = '#ff0000';
